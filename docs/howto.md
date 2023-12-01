@@ -6,7 +6,7 @@ hide:
 
 # How to participate
 
-Embark on a dynamic journey with our Adventronics Calendar – an electrifying twist on the traditional advent calendar! Instead of the usual sweet treats, each of the 24 windows reveals a challenge centered around the Barduino. Every day we will share with you in this page more details of the challenge and a possible solution, but be creative with your own solutions. These challenges encompass coding, design, and entertaining activities that you can seamlessly weave into your December routine. While the first five participants to finish the challenge will earn a coveted Barduino sweatshirt*, the true essence lies in the joy of learning, the thrill of tackling electronics, and the camaraderie of sharing your experiences with fellow participants. 
+Embark on a dynamic journey with our Adventronics Calendar – an electrifying twist on the traditional advent calendar! Instead of the usual sweet treats, each of the 24 windows reveals a challenge centered around the Barduino. Every day we will share with you in this page more details of the challenge and a possible solution, but be creative with your own solutions. These challenges encompass coding, design, and entertaining activities that you can seamlessly weave into your December routine. While the first five participants to finish the challenge will earn a coveted Barduino sweatshirt*, the true essence lies in the joy of learning, the thrill of tackling electronics, and the camaraderie of sharing your experiences with fellow participants. :party_popper:
 
 ## Progress
 
