@@ -15,6 +15,7 @@ nav:
   - Solutions:
     - Day 1: solutions/01/01.md
     - Day 2: solutions/02/02.md
+    - Day 3: solutions/03/03.md
   - Solution template:
     - template.md
 
@@ -54,3 +55,21 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
 
+extra:
+  analytics:
+    provider: google
+    property: G-WL24PGLVEQ
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.

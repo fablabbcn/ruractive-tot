@@ -15,6 +15,7 @@ hide:
 1. Be creative
 
 !!! bug annotate "3. Sticker Challenge (1)"
+    [Day 03](solutions/03/03.md)
 1. Let's see your graphic design skills
 
 !!! example annotate "4. Talk morse to me (1)"
