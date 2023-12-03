@@ -19,6 +19,7 @@ hide:
 1. Let's see your graphic design skills
 
 !!! example annotate "4. Talk morse to me (1)"
+    [Day 04](solutions/04/04.md)
 1. -... .- .-. -.. ..- .. -. ---
 
 !!! warning annotate "5. Jingle Bells! (1)"
