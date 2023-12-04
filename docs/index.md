@@ -23,6 +23,7 @@ hide:
 1. -... .- .-. -.. ..- .. -. ---
 
 !!! warning annotate "5. Jingle Bells! (1)"
+    [Day 05](solutions/05/05.md)
 1. Sing with me
 
 !!! question annotate "6. Barduino wishes you a Merry Christmas! (1)"
