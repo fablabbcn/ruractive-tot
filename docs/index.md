@@ -39,6 +39,7 @@ hide:
 1. Challenge accepted
 
 !!! bug annotate "9. LED's get artistic (1)"
+    [Day 09](solutions/09/09.md)
 1. Try using one of those apps: Iphone Android
 
 !!! example annotate "10. Can you imagine the new Barduino? (1)"
