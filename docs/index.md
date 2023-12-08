@@ -35,6 +35,7 @@ hide:
 1. Play me!
 
 !!! tip annotate "8. Will you get the lowest temperature? (1)"
+    [Day 08](solutions/08/08.md)
 1. Challenge accepted
 
 !!! bug annotate "9. LED's get artistic (1)"
