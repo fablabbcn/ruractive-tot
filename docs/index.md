@@ -43,6 +43,7 @@ hide:
 1. Try using one of those apps: Iphone Android
 
 !!! example annotate "10. Can you imagine the new Barduino? (1)"
+    [Day 10](solutions/10/10.md)
 1. How it should be?
 
 !!! warning annotate "11. Christmas lights (1)"
