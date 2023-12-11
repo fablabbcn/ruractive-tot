@@ -51,6 +51,7 @@ hide:
 1. Colorful lights
 
 !!! question annotate "12. Ligth a candle in the dark (1)"
+    [Day 12](solutions/12/12.md)
 1. Try using the light sensor...
 
 !!! note annotate "13. Visual effects (1)"
