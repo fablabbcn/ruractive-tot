@@ -47,6 +47,7 @@ hide:
 1. How it should be?
 
 !!! warning annotate "11. Christmas lights (1)"
+    [Day 11](solutions/11/11.md)
 1. Colorful lights
 
 !!! question annotate "12. Ligth a candle in the dark (1)"
