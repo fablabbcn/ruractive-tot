@@ -55,6 +55,7 @@ hide:
 1. Try using the light sensor...
 
 !!! note annotate "13. Visual effects (1)"
+    [Day 13](solutions/13/13.md)
 1. Maybe with p5js?
 
 !!! tip annotate "14. Dress me up (1)"
