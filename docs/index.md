@@ -59,6 +59,7 @@ hide:
 1. Maybe with p5js?
 
 !!! tip annotate "14. Dress me up (1)"
+    [Day 14](solutions/14/14.md)
 1. Protect me
 
 !!! bug annotate "15. Keyboard (1)"
