@@ -63,6 +63,7 @@ hide:
 1. Protect me
 
 !!! bug annotate "15. Keyboard (1)"
+    [Day 15](solutions/15/15.md)
 1. UP RIGHT DOWN LEFT
 
 !!! example annotate "16. Let's play! (1)"
