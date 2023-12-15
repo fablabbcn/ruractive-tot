@@ -67,6 +67,7 @@ hide:
 1. UP RIGHT DOWN LEFT
 
 !!! example annotate "16. Let's play! (1)"
+    [Day 16](solutions/16/16.md)
 1. Can I be the controller?
 
 !!! warning annotate "17. How AI imagines me? (1)"
