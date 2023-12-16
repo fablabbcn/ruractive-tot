@@ -71,6 +71,7 @@ hide:
 1. Can I be the controller?
 
 !!! warning annotate "17. How AI imagines me? (1)"
+    [Day 17](solutions/17/17.md)
 1. A picture is worth a thousand words
 
 !!! question annotate "18. How is the weather? (1)"
