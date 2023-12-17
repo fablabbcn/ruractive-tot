@@ -75,6 +75,7 @@ hide:
 1. A picture is worth a thousand words
 
 !!! question annotate "18. How is the weather? (1)"
+    [Day 18](solutions/18/18.md)
 1. Check this [API](https://openweathermap.org/api)
 
 !!! note annotate "19. Let's party! (1)"
