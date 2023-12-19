@@ -79,9 +79,11 @@ hide:
 1. Check this [API](https://openweathermap.org/api)
 
 !!! note annotate "19. Let's party! (1)"
+    [Day 19](solutions/19/19.md)
 1. :ping_pong:
 
 !!! tip annotate "20. Change my name (1)"
+    [Day 20](solutions/20/20.md)
 1. How should I be called in the future?
 
 !!! bug annotate "21. ChatGPT can you help me write a Cristmas card? (1)"
