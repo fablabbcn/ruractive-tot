@@ -85,6 +85,7 @@ hide:
 1. How should I be called in the future?
 
 !!! bug annotate "21. ChatGPT can you help me write a Cristmas card? (1)"
+    [Day 21](solutions/21/21.md)
 1. From the Barduino?
 
 !!! example annotate "22. Let's send it to someone (1)"

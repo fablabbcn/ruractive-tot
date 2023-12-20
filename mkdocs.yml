@@ -31,6 +31,12 @@ nav:
     - Day 16: solutions/16/16.md
     - Day 17: solutions/17/17.md
     - Day 18: solutions/18/18.md
+<<<<<<< HEAD
+=======
+    - Day 19: solutions/19/19.md
+    - Day 20: solutions/20/20.md
+    - Day 21: solutions/21/21.md 
+>>>>>>> 23449bb (day21)
   - Solution template:
     - template.md
 
