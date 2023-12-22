@@ -91,6 +91,7 @@ hide:
 1. From the Barduino?
 
 !!! example annotate "22. Let's send it to someone (1)"
+    [Day 22](solutions/22/22.md)
 1. From Barduino with love :love_letter:
 
 !!! warning annotate "23. Barduino meets traditions (1)"
