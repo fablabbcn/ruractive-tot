@@ -95,6 +95,7 @@ hide:
 1. From Barduino with love :love_letter:
 
 !!! warning annotate "23. Barduino meets traditions (1)"
+    [Day 23](solutions/23/23.md)
 1. Make me feel part of the family
 
 !!! question annotate "24. Caga tioino (1)"
