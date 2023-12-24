@@ -99,6 +99,7 @@ hide:
 1. Make me feel part of the family
 
 !!! question annotate "24. Caga tioino (1)"
+    [Day 24](solutions/24/24.md)
 1. Don't forget I'm from Barcelona!
  
 
