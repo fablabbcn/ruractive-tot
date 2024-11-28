@@ -3,7 +3,7 @@ site_description: Adventronics Calendar
 site_author: Future Learning Unit (FLU)
 repo_name: 'Adventronics Calendar'
 repo_url: 'https://github.com/fablabbcn/adventronics/'
-copyright: 'Copyleft 2023 FLB - GNU Free Documentation License'
+copyright: 'Copyleft 2024 FLB - GNU Free Documentation License'
 
 nav:
   - Home:
