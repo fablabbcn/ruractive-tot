@@ -11,8 +11,7 @@ hide:
 1.  :light_bulb:
 
 !!! tip annotate "2. Say cheeeeese! :cheese: (1)"
-    Day 02
-    [](solutions/02/02.md)
+    [Day 02](solutions/02/02.md)
 1. Be creative
 
 !!! bug annotate "3. Sticker Challenge (1)"
