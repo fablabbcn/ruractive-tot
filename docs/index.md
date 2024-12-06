@@ -31,8 +31,7 @@ hide:
 1. Don't forget the stamp
 
 !!! note annotate "7. Pianino (1)"
-    Day 07
-    [](solutions/07/07.md)
+    [Day 07](solutions/07/07.md)
 1. Play me!
 
 !!! tip annotate "8. Will you get the lowest temperature? (1)"
