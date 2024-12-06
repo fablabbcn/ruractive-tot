@@ -27,8 +27,7 @@ hide:
 1. Sing with me
 
 !!! question annotate "6. Barduino wishes you a Merry Christmas! (1)"
-    Day 06
-    [](solutions/06/06.md)
+    [Day 06](solutions/06/06.md)
 1. Don't forget the stamp
 
 !!! note annotate "7. Pianino (1)"
