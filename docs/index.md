@@ -6,7 +6,7 @@ hide:
 
 # Ruractive Train of Trainers
 
-!!! note annotate "1. Light me up! (1)"
+!!! note annotate "1. Welcome To Ruractive (1)"
     [Day 01](sessions/01/01.md)
 1.  :light_bulb:
 
