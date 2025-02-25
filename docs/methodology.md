@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Barduino
+# Methodology
 
 ![barduino](images/Barduino4board.svg)
 
