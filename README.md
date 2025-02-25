@@ -1,3 +1,3 @@
-# Adventronics Calendar Challenge
+# Ruractive - Train of Trainers
 
-https://fablabbcn.github.io/adventronics/
+https://fablabbcn.github.io/ruractive-tot/
