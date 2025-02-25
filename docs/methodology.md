@@ -6,6 +6,6 @@ hide:
 
 # Methodology
 
-![barduino](images/Barduino4board.svg)
+![Methodology](images/methodology.png)
 
-[Here](https://fablabbcn-projects.gitlab.io/electronics/barduino-docs/) you can find a bit more info about the Barduino.
+[Here](https://ruractive.eu/) you can find a bit more info about the Ruractive project.
