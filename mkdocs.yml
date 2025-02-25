@@ -12,7 +12,7 @@ nav:
     - methodology.md
   - How to particpate?:
     - howto.md
-  - Solutions:
+  - Sessions:
     - Day 1: sessions/01/01.md
     - Day 2: sessions/02/02.md
     #- Day 3: solutions/03/03.md
@@ -37,8 +37,8 @@ nav:
     #- Day 22: solutions/22/22.md
     #- Day 23: solutions/23/23.md
     #- Day 24: solutions/24/24.md
-  - Solution template:
-    - template.md
+  - ToT Digital Kit:
+    - digitalkit.md
 
 
 theme: 
