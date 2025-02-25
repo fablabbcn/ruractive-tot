@@ -4,6 +4,10 @@ hide:
   - toc
 ---
 
+# Benvinguts a la documentació
+
+Aquesta és la pàgina principal de la documentació.
+
 # Adventronics Calendar Challenge
 
 !!! note annotate "1. Light me up! (1)"
