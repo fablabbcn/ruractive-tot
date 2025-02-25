@@ -4,11 +4,7 @@ hide:
   - toc
 ---
 
-# Benvinguts a la documentació
-
-Aquesta és la pàgina principal de la documentació.
-
-# Adventronics Calendar Challenge
+# Ruractive Train of Trainers
 
 !!! note annotate "1. Light me up! (1)"
     [Day 01](solutions/01/01.md)
