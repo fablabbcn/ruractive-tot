@@ -52,8 +52,8 @@ theme:
       warning: material/cookie
       bug: material/candle
       example: material/snowflake
-  logo: images/flb.svg
-  favicon: images/Barduino4.svg
+  logo: images/logoRuractive.svg
+  favicon: images/logoRuractive.svg
   features:
     - instant
     - navigation.expand
