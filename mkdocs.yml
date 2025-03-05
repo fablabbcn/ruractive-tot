@@ -14,9 +14,9 @@ nav:
   #- How to particpate?:
     #- howto.md
   - Sessions:
-    - S.00: sessions/00/00.md
-    - S.01: sessions/01/01.md
-    - S.02: sessions/02/02.md
+    - S.00: sessions/00.md
+    - S.01: sessions/01.md
+    - S.02: sessions/02.md
     #- Day 3: solutions/03/03.md
     #- Day 4: solutions/04/04.md
     #- Day 5: solutions/05/05.md
