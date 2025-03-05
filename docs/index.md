@@ -22,38 +22,30 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+-   :material-clock-fast:{ .lg .middle } __SESSION 0__
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    Information and data literacy 
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Getting started](../docs/sessions/00.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+-   :fontawesome-brands-markdown:{ .lg .middle } __SESSION 1__
 
     ---
 
     Information and data literacy
 
-    [:octicons-arrow-right-24: Reference](#)
+    [:octicons-arrow-right-24: Getting started](../docs/sessions/01.md)
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   :material-format-font:{ .lg .middle } __SESSION 2__
 
     ---
 
     Change the colors, fonts, language, icons, logo and more with a few lines
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Getting started](../docs/sessions/02.md)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
 
 </div>
 
