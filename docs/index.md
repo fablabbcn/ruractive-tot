@@ -15,7 +15,7 @@ hide:
 1.  :light_bulb:
 
 !!! tip annotate "SESSION 2. Digital technologies for rapid prototyping (1)"
-    [Day 02](sessions/02/02.md)
+    [Session 02](sessions/02/02.md)
 1. Be creative
  
 
@@ -35,7 +35,7 @@ hide:
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    Information and data literacy
 
     [:octicons-arrow-right-24: Reference](#)
 

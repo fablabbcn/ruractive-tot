@@ -1,5 +1,9 @@
 image: python:3.9-slim
 
+stages:
+  - test
+  - deploy
+
 before_script:
   # install Git for the mkdocs revision plugin
   - time apt update && apt-get install -y git
@@ -9,13 +13,12 @@ before_script:
 test:
   stage: test
   script:
-  - time mkdocs build --site-dir test
+    - time mkdocs build --site-dir test
   artifacts:
     paths:
-    - test
+      - test
   rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-      when: never
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
 
 pages:
   stage: deploy
@@ -23,9 +26,11 @@ pages:
     ENABLED_GIT_REVISION_DATE: "true"
     GIT_DEPTH: 1000
   script:
-  - time mkdocs build --site-dir public
+    - time mkdocs build --site-dir public
+    # Optional: Add CNAME for custom domain
+    - echo "lct.fablabbcn.org" > public/CNAME
   artifacts:
     paths:
-    - public
+      - public
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
