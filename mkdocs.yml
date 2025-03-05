@@ -3,18 +3,20 @@ site_description: Ruractive - Train of Trainers
 site_author: Future Learning Unit (FLU)
 repo_name: 'Ruractive - Train of Trainers'
 repo_url: 'https://github.com/fablabbcn/adventronics/'
-copyright: 'Copyleft 2025 FLB - GNU Free Documentation License'
+copyright: 'Copyleft 2025 FLB - GNU Free Documentation License, Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:
+'
 
 nav:
   - Home:
     - index.md
   - Methodology:
     - methodology.md
-  - How to particpate?:
-    - howto.md
+  #- How to particpate?:
+    #- howto.md
   - Sessions:
-    - Day 1: sessions/01/01.md
-    - Day 2: sessions/02/02.md
+    - SESSION 0: sessions/00/00.md
+    - SESSION 1: sessions/01/01.md
+    - SESSION 2: sessions/02/02.md
     #- Day 3: solutions/03/03.md
     #- Day 4: solutions/04/04.md
     #- Day 5: solutions/05/05.md
