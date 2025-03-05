@@ -2,7 +2,7 @@ site_name: Ruractive - Train of Trainers
 site_description: Ruractive - Train of Trainers
 site_author: Future Learning Unit (FLU)
 repo_name: 'Ruractive - Train of Trainers'
-repo_url: 'https://github.com/fablabbcn/adventronics/'
+repo_url: 'https://github.com/fablabbcn/ruractive-tot'
 copyright: 'Copyleft 2025 FLB - GNU Free Documentation License, Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:
 '
 
@@ -13,10 +13,10 @@ nav:
     - methodology.md
   #- How to particpate?:
     #- howto.md
-  - Sessions:
-    - SESSION 0: sessions/00/00.md
-    - SESSION 1: sessions/01/01.md
-    - SESSION 2: sessions/02/02.md
+  - SESSIONS:
+    - Session 0: sessions/00/00.md
+    - Session 1: sessions/01/01.md
+    - Session 2: sessions/02/02.md
     #- Day 3: solutions/03/03.md
     #- Day 4: solutions/04/04.md
     #- Day 5: solutions/05/05.md
@@ -71,6 +71,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
