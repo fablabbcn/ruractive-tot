@@ -9,8 +9,8 @@ copyright: 'Copyleft 2025 FLB - GNU Free Documentation License, Made with :purpl
 nav:
   - Home:
     - index.md
-  - Methodology:
-    - methodology.md
+  - Local Community Trainers:
+    - lct.md
   #- How to particpate?:
     #- howto.md
   - Sessions:
