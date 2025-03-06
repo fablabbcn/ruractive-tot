@@ -1,0 +1,41 @@
+/* Fondos para grid cards */
+.grid-bg-color {
+    background-color: rgba(179, 136, 255, 0.1); /* Color morado claro semitransparente */
+    padding: 1rem;
+    border-radius: 4px;
+    margin: 1rem 0;
+  }
+  
+  .grid-bg-gradient {
+    background: linear-gradient(135deg, rgba(179, 136, 255, 0.2), rgba(124, 77, 255, 0.2)); /* Gradiente morado */
+    padding: 1rem;
+    border-radius: 4px;
+    margin: 1rem 0;
+  }
+  
+  .grid-bg-image {
+    background-image: url('../images/background.jpg'); /* Ajusta la ruta a tu imagen */
+    background-size: cover;
+    background-position: center;
+    padding: 1.5rem;
+    border-radius: 4px;
+    margin: 1rem 0;
+    position: relative;
+  }
+  
+  .grid-bg-image::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Overlay oscuro para legibilidad */
+    border-radius: 4px;
+    z-index: 0;
+  }
+  
+  .grid-bg-image .grid.cards {
+    position: relative;
+    z-index: 1;
+  }
