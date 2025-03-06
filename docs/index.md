@@ -53,19 +53,16 @@ hide:
 </div>
 
 
-
-<div class="grid-bg-color">
 <div class="grid cards" markdown>
 
-- ![Session icon](images/session_icon.svg){ .lg .middle } __Session title__
+- ![Session icon](images/logoRuractive.svg){ .lg .middle } __Session title__
   
   Session description text here
 
-- ![Another icon](images/another_icon.svg){ .lg .middle } __Another title__
+- ![Another icon](images/video01.png){ .lg .middle } __Another title__
   
   More description text here
 
-</div>
 </div>
 
 
