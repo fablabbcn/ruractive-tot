@@ -43,14 +43,29 @@ theme:
     - tabs
     - toc.autohide
     - navigation.tabs
+    - navigation.top
   palette:
-    scheme: slate
-    primary: black
+    # Modo oscuro (predeterminado)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+    
+    # Modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: purple
+      accent: black
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
 
 extra_css:
   - stylesheets/extra.css
       
-
 markdown_extensions:
   - admonition
   - pymdownx.details
