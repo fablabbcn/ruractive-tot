@@ -3,6 +3,7 @@ site_description: Ruractive - Train of Trainers
 site_author: Future Learning Unit (FLU)
 repo_name: 'Ruractive - Train of Trainers'
 repo_url: 'https://github.com/fablabbcn/ruractive-tot'
+site_url: https://lct.fablabbcn.org/
 copyright: 'Copyleft 2025 FLB - GNU Free Documentation License, Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:
 '
 
@@ -65,6 +66,9 @@ theme:
   palette:
     scheme: slate
     primary: black
+
+extra_css:
+  - stylesheets/extra.css
       
 
 markdown_extensions:

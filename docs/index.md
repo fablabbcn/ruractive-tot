@@ -47,10 +47,28 @@ hide:
 
     Digital technologies for rapid prototyping
 
-    [:octicons-arrow-right-24: Getting started](../sessions/02.md)
+    [:octicons-arrow-right-24: Getting started](sessions/02.md)
 
 
 </div>
+
+
+
+<div class="grid-bg-color">
+<div class="grid cards" markdown>
+
+- ![Session icon](images/session_icon.svg){ .lg .middle } __Session title__
+  
+  Session description text here
+
+- ![Another icon](images/another_icon.svg){ .lg .middle } __Another title__
+  
+  More description text here
+
+</div>
+</div>
+
+
 
 
 Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:
