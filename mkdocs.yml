@@ -57,7 +57,7 @@ theme:
     # Modo claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
+      primary: orange
       accent: black
       toggle:
         icon: material/weather-night
