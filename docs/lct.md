@@ -4,11 +4,15 @@ hide:
   - toc
 ---
 
-# Local Community Trainers (LCTs)
+# Meet Our Local Community Trainers (LCTs)
 
-This section is a compilation of the Learning and Collaboration journey documenting users experiences, including reflections, learnings, exercises, and ideas, 
+In RURACTIVE, **Local Community Trainers (LCTs)** play a crucial role in bridging the digital divide, fostering community empowerment, and facilitating knowledge exchange. As **selected and paid representatives**, LCTs serve as **local leaders**, **trainers**, and **key facilitators** in the Dynamo local task forces across 12 European regions.  
 
-## LCT Regional Documentation Links
+Each LCT brings unique skills and experiences to guide their community through the digital transition. They assess local learning needs, deliver training initiatives, and ensure inclusive knowledge transfer to support rural development.  
+
+On this page, you will find the names of our LCTs along with links to their **reflective documentation**, where they share their experiences, insights, and progress throughout their training journey.  
+
+## 🔗 **Explore their stories and contributions below!**
 
 1. [Emanuela Ponari](https://hackmd.io/) (Abruzzo, Italy)
 
