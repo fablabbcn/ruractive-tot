@@ -1,3 +1,26 @@
+/* Contenedor grid con diseño responsive */
+.image-grid {
+  display: grid;
+  width: 100%;
+  gap: 1.5rem;
+  /* Por defecto en móviles: 1 columna */
+  grid-template-columns: 1fr;
+}
+
+/* En tablets: 2 columnas */
+@media (min-width: 768px) {
+  .image-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* En desktops: 3 columnas */
+@media (min-width: 1200px) {
+  .image-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 /* Estilo para los bloques con imagen de fondo */
 .image-card {
   position: relative;
@@ -7,7 +30,7 @@
   overflow: hidden;
   cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  margin-bottom: 1rem;
+  margin-bottom: 0; /* Quitamos margen inferior ya que el gap del grid se encarga del espaciado */
   border: 2px solid transparent;
 }
 
@@ -89,5 +112,5 @@
   height: 100%;
   z-index: 4;
   display: block;
-  text-indent: -9999px;
+  text-indent: -9999px; /* Oculta el texto del enlace */
 }
