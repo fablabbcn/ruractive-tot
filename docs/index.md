@@ -6,16 +6,21 @@ hide:
 
 # Ruractive Train of Trainers
 
-!!! warning "SESSION 0. SESSION 0. Welcome & Kickoff"
-    [Day 00](sessions/00.md)
+!!! warning "SESSION 0. Welcome & Kickoff"
+    Day 00
+    
+    [Ir al contenido](sessions/00.md)
 
-!!! note annotate "SESSION 1. Information and data literacy"
-    [Day 01](sessions/01.md)
+!!! note "SESSION 1. Information and data literacy"
+    Day 01
+    
+    [Ir al contenido](sessions/01.md)
 
-!!! tip annotate "SESSION 2. Digital technologies for rapid prototyping"
-    [Session 02](sessions/02.md)
+!!! tip "SESSION 2. Digital technologies for rapid prototyping"
+    Session 02
+    
+    [Ir al contenido](sessions/02.md)
  
-
 
 <div class="grid cards" markdown>
 
@@ -25,9 +30,7 @@ hide:
 
     Welcome & Kickoff 
 
-    [:octicons-arrow-right-24: Getting started](sessions/01.md)
-
-
+    [:octicons-arrow-right-24: Getting started](sessions/00.md)
 
 -   __SESSION 1__
 
@@ -37,10 +40,6 @@ hide:
 
     [:octicons-arrow-right-24: Getting started](sessions/01.md)
 
-
-
-
-
 -   __SESSION 2__
 
     ---
@@ -48,7 +47,6 @@ hide:
     Digital technologies for rapid prototyping
 
     [:octicons-arrow-right-24: Getting started](sessions/02.md)
-
 
 </div>
 
@@ -64,8 +62,5 @@ hide:
   More description text here
 
 </div>
-
-
-
 
 Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:
