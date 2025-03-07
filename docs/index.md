@@ -16,7 +16,7 @@ hide:
       <h2 class="title">SESSION 0</h2>
       <p class="subtitle">Welcome & Kickoff</p>
     </div>
-    <a href="sessions/00.md" class="card-link">Ir a la sesión</a>
+    <a href="sessions/00" class="card-link">Ir a la sesión</a>
   </div>
 
   <div class="image-card session-1">
@@ -25,7 +25,7 @@ hide:
       <h2 class="title">SESSION 1</h2>
       <p class="subtitle">Information and data literacy</p>
     </div>
-    <a href="sessions/01.md" class="card-link">Ir a la sesión</a>
+    <a href="sessions/01" class="card-link">Ir a la sesión</a>
   </div>
 
   <div class="image-card session-2">
@@ -34,7 +34,7 @@ hide:
       <h2 class="title">SESSION 2</h2>
       <p class="subtitle">Digital technologies for rapid prototyping</p>
     </div>
-    <a href="sessions/02.md" class="card-link">Ir a la sesión</a>
+    <a href="sessions/02" class="card-link">Ir a la sesión</a>
   </div>
 </div>
 
