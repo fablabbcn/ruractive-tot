@@ -1,125 +1,93 @@
-/* Personalización de las alertas para hacerlas como links con borde de color */
-.md-typeset .admonition,
-.md-typeset details {
-  border-width: 2px;
-  border-radius: 8px;
-  box-shadow: none;
-  margin: 0 0 1rem 0;
-  transition: all 0.3s ease;
-}
-
-.md-typeset .admonition:hover,
-.md-typeset details:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-}
-
-/* Convierte los admonitions en enlaces completos */
-.md-typeset .admonition.clickable,
-.md-typeset details.clickable {
-  cursor: pointer;
+/* Estilo para los bloques con imagen de fondo */
+.image-card {
   position: relative;
+  width: 100%;
+  height: 200px; /* Altura ajustable según necesites */
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 1rem;
+  border: 2px solid transparent;
 }
 
-/* Capa transparente de enlace para hacer todo el bloque clickeable */
-.md-typeset .admonition.clickable a.admonition-link::after,
-.md-typeset details.clickable a.admonition-link::after {
-  content: "";
+/* Efecto hover */
+.image-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para diferentes sesiones */
+.image-card.session-0 {
+  border-color: #e78c38; /* Naranja para Session 0 */
+}
+
+.image-card.session-1 {
+  border-color: #3b82f6; /* Azul para Session 1 */
+}
+
+.image-card.session-2 {
+  border-color: #10b981; /* Verde para Session 2 */
+}
+
+/* Imagen de fondo que ocupa todo el espacio */
+.image-card .bg-image {
   position: absolute;
   top: 0;
   left: 0;
-  right: 0;
-  bottom: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Cubre todo el contenedor */
   z-index: 1;
 }
 
-/* Personalización del grid de tarjetas */
-.grid.cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 0;
-  margin: 0 !important;
-}
-
-.grid.cards > * {
-  border: 2px solid;
-  border-radius: 8px;
-  padding: 1rem;
-  margin: 0 0 0.5rem 0 !important;
-  transition: all 0.3s ease;
-}
-
-/* Colores de borde para diferentes tarjetas */
-.grid.cards > *:nth-child(1) {
-  border-color: #e78c38; /* Naranja para Session 0 */
-}
-
-.grid.cards > *:nth-child(2) {
-  border-color: #3b82f6; /* Azul para Session 1 */
-}
-
-.grid.cards > *:nth-child(3) {
-  border-color: #10b981; /* Verde para Session 2 */
-}
-
-.grid.cards > *:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-}
-
-/* Estilo para los títulos en las tarjetas */
-.grid.cards strong {
-  font-size: 1.2rem;
-  display: block;
-  margin-bottom: 0.5rem;
-}
-
-/* Hacer que los enlaces ocupen todo el bloque */
-.grid.cards a {
-  position: relative;
+/* Capa oscura para mejorar la legibilidad del texto */
+.image-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
   z-index: 2;
 }
 
-/* Estilos para el segundo grid con imágenes */
-.grid.cards img.lg.middle {
-  max-height: 100px;
-  object-fit: contain;
-  margin-right: 1rem;
+/* Contenedor del título */
+.image-card .title-container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1.5rem;
+  z-index: 3;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-/* Alinear imágenes y texto en el segundo grid */
-.grid.cards > *:has(img) {
-  display: flex;
-  align-items: center;
+/* Estilo del título principal */
+.image-card .title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
 }
 
-/* Colores específicos para los admonitions */
-.md-typeset .warning {
-  border-color: #e78c38; /* Naranja para Session 0 */
+/* Estilo del subtítulo */
+.image-card .subtitle {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  opacity: 0.9;
 }
 
-.md-typeset .note {
-  border-color: #3b82f6; /* Azul para Session 1 */
-}
-
-.md-typeset .tip {
-  border-color: #10b981; /* Verde para Session 2 */
-}
-
-/* Quitar relleno excesivo de los admonitions */
-.md-typeset .admonition > *,
-.md-typeset details > * {
-  padding: 0.5rem 1rem;
-}
-
-/* Ocultar iconos de admonition si se desea un aspecto más limpio */
-.md-typeset .admonition-title::before,
-.md-typeset summary::before {
-  display: none;
-}
-
-/* Estilos para el footer con corazón morado */
-footer {
-  margin-top: 2rem;
-  text-align: center;
+/* Enlace invisible que cubre toda la tarjeta */
+.image-card a.card-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+  display: block;
+  text-indent: -9999px;
 }
