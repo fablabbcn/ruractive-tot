@@ -36,9 +36,7 @@ hide:
     </div>
     <a href="sessions/02" class="card-link">Ir a la sesión</a>
   </div>
-</div>
 
-<div class="image-grid">
   <div class="image-card session-1">
     <img src="images/stbd.png" alt="Session background" class="bg-image">
     <div class="title-container">
@@ -65,7 +63,6 @@ hide:
     </div>
     <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
   </div>
-</div>
 
   <div class="image-card session-2">
     <img src="images/stbd.png" alt="Digital technologies" class="bg-image">
@@ -75,7 +72,6 @@ hide:
     </div>
     <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
   </div>
-</div>
 
   <div class="image-card session-2">
     <img src="images/stbd.png" alt="Digital technologies" class="bg-image">
