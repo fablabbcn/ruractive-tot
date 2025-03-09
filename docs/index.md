@@ -38,6 +38,54 @@ hide:
   </div>
 </div>
 
+<div class="image-grid">
+  <div class="image-card session-1">
+    <img src="images/stbd.png" alt="Session background" class="bg-image">
+    <div class="title-container">
+      <h2 class="title">SESSION 3</h2>
+      <p class="subtitle">Digital communication and collaboration, Co-Creation Processes</p>
+    </div>
+    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+  </div>
+
+  <div class="image-card session-2">
+    <img src="images/stbd.png" alt="Another session background" class="bg-image">
+    <div class="title-container">
+      <h2 class="title">SESSION 4</h2>
+      <p class="subtitle">Information and data literacy, Artificial Intelligence (AI)</p>
+    </div>
+    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+  </div>
+
+  <div class="image-card session-0">
+    <img src="images/stbd.png" alt="Digital technologies" class="bg-image">
+    <div class="title-container">
+      <h2 class="title">SESSION 5</h2>
+      <p class="subtitle">Digital Content Creation, Digital tech + Dataviz</p>
+    </div>
+    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+  </div>
+</div>
+
+  <div class="image-card session-2">
+    <img src="images/stbd.png" alt="Digital technologies" class="bg-image">
+    <div class="title-container">
+      <h2 class="title">SESSION 6</h2>
+      <p class="subtitle">Digital technologies  for problem solving, Sustainable Maker Practices</p>
+    </div>
+    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+  </div>
+</div>
+
+  <div class="image-card session-2">
+    <img src="images/stbd.png" alt="Digital technologies" class="bg-image">
+    <div class="title-container">
+      <h2 class="title">SESSION 7</h2>
+      <p class="subtitle">Knowlage transfer workshop</p>
+    </div>
+    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+  </div>
+</div>
 
 
 Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:
