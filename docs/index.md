@@ -38,12 +38,12 @@ hide:
   </div>
 
   <div class="image-card session-1">
-    <img src="images/stbd.png" alt="Session background" class="bg-image">
+    <img src="images/s3.png" alt="Session background" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 3</h2>
       <p class="subtitle">Digital communication and collaboration, Co-Creation Processes</p>
     </div>
-    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+    <a href="sessions/s3" class="card-link">Ir a la sesión</a>
   </div>
 
   <div class="image-card session-2">

@@ -4,7 +4,7 @@ site_author: Future Learning Unit (FLU)
 repo_name: 'Ruractive - Train of Trainers'
 repo_url: 'https://github.com/fablabbcn/ruractive-tot'
 site_url: https://lct.fablabbcn.org/
-copyright: 'Copyleft 2025 FLB - GNU Free Documentation License, Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:
+copyright: 'Copyleft 2025 FLB - GNU Free Documentation License, Made from Fablab Barcelona with love ;)
 '
 
 nav:
@@ -18,6 +18,7 @@ nav:
     - S.00: sessions/00.md
     - S.01: sessions/01.md
     - S.02: sessions/02.md
+    - S.03: sessions/03.md
     #- Day 3: solutions/03/03.md
 
   - ToT Digital Kit:
