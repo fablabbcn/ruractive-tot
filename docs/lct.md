@@ -14,9 +14,9 @@ On this page, you will find the names of our LCTs along with links to their **re
 
 ## 🔗 **Explore their stories and contributions below!**
 
-1. [Emanuela Ponari](https://hackmd.io/) (Abruzzo, Italy)
+1. [Emanuela Ponari](https://hackmd.io/@7ZXGfUdsSQGDY7caFFneUQ/rkX1PDo9Jg) (Abruzzo, Italy)
 
-2. [José Luis Durán](https://hackmd.io/@josedetarara/Hkl-lpK9k) (Andalucia, Spain)
+2. [José Luis Durán](https://hackmd.io/@josedetarara/Hkl-lpK9kg) (Andalucia, Spain)
 
 3. [Patricia Martin](https://hackmd.io/@PatriciaAngela/BJ9m5qV5Jl) (Zamora, Spain)
 
@@ -34,7 +34,7 @@ On this page, you will find the names of our LCTs along with links to their **re
 
 10. Martin Wagner (Sudburgenland, Austria)
 
-11. Emanuel Petrig (Torbel, Switzerland)
+11. [Emanuel Petrig](https://hackmd.io/@1XXX1/RurActive) (Torbel, Switzerland)
 
 12. Anita Baradić (Zadar, Croatia)
 
