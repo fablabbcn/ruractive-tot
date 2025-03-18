@@ -47,12 +47,12 @@ hide:
   </div>
 
   <div class="image-card session-2">
-    <img src="images/stbd.png" alt="Another session background" class="bg-image">
+    <img src="images/s4.png" alt="Another session background" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 4</h2>
       <p class="subtitle">Information and data literacy, Artificial Intelligence (AI)</p>
     </div>
-    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+    <a href="sessions/04" class="card-link">Ir a la sesión</a>
   </div>
 
   <div class="image-card session-0">
