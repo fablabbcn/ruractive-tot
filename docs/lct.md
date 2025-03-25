@@ -36,7 +36,7 @@ On this page, you will find the names of our LCTs along with links to their **re
 
 11. [Emanuel Petrig](https://hackmd.io/@1XXX1/RurActive) (Torbel, Switzerland)
 
-12. Anita Baradić (Zadar, Croatia)
+12. [Anita Baradić](https://hackmd.io/@eGBkVp8JSBKnAkg8mNnvXg/rkOIo4En1e) (Zadar, Croatia)
 
 13. [Marina Makri](https://hackmd.io/@MarinaMcree/ByZ3Qk95kl) (Zagori, Greece)
 
