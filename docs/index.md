@@ -65,10 +65,10 @@ hide:
   </div>
 
   <div class="image-card session-2">
-    <img src="images/stbd.png" alt="Digital technologies" class="bg-image">
+    <img src="images/s6.png" alt="Digital technologies" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 6</h2>
-      <p class="subtitle">Digital technologies  for problem solving, Sustainable Maker Practices</p>
+      <p class="subtitle">Sustainable Innovation, Digital Tools and Maker Practices</p>
     </div>
     <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
   </div>
