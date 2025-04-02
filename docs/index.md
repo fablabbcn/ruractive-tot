@@ -32,7 +32,7 @@ hide:
     <img src="images/s2.png" alt="Digital technologies" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 2</h2>
-      <p class="subtitle">Digital technologies for rapid prototyping</p>
+      <p class="subtitle">Rapid prototyping</p>
     </div>
     <a href="sessions/02" class="card-link">Ir a la sesión</a>
   </div>
@@ -50,7 +50,7 @@ hide:
     <img src="images/s4.png" alt="Another session background" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 4</h2>
-      <p class="subtitle">Information and data literacy, Artificial Intelligence (AI)</p>
+      <p class="subtitle">Artificial Intelligence (AI)</p>
     </div>
     <a href="sessions/04" class="card-link">Ir a la sesión</a>
   </div>
@@ -59,7 +59,7 @@ hide:
     <img src="images/s4.png" alt="Digital technologies" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 5</h2>
-      <p class="subtitle">Digital Content Creation, Digital tech + Dataviz</p>
+      <p class="subtitle">Digital Content Creation</p>
     </div>
     <a href="sessions/05" class="card-link">Ir a la sesión</a>
   </div>
@@ -68,7 +68,7 @@ hide:
     <img src="images/s6.png" alt="Digital technologies" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 6</h2>
-      <p class="subtitle">Sustainable Innovation, Digital Tools and Maker Practices</p>
+      <p class="subtitle">Sustainable Innovation</p>
     </div>
     <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
   </div>
