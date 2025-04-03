@@ -70,7 +70,7 @@ hide:
       <h2 class="title">SESSION 6</h2>
       <p class="subtitle">Sustainable Innovation</p>
     </div>
-    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+    <a href="sessions/06" class="card-link">Ir a la sesión</a>
   </div>
 
   <div class="image-card session-2">
