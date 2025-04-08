@@ -56,7 +56,7 @@ hide:
   </div>
 
   <div class="image-card session-0">
-    <img src="images/s4.png" alt="Digital technologies" class="bg-image">
+    <img src="images/s5.png" alt="Digital technologies" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 5</h2>
       <p class="subtitle">Digital Content Creation</p>
