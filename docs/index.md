@@ -74,12 +74,12 @@ hide:
   </div>
 
   <div class="image-card session-2">
-    <img src="images/stbd.png" alt="Digital technologies" class="bg-image">
+    <img src="images/s7.jpg" alt="Digital technologies" class="bg-image">
     <div class="title-container">
       <h2 class="title">SESSION 7</h2>
       <p class="subtitle">Knowlage transfer workshop</p>
     </div>
-    <a href="sessions/tbd" class="card-link">Ir a la sesión</a>
+    <a href="sessions/07" class="card-link">Ir a la sesión</a>
   </div>
 </div>
 
